@@ -12,3 +12,4 @@ print(a[0,2])
 b = a[1:]
 
 print(b)
+print(b % 3 == 0)
